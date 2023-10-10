@@ -1,0 +1,8 @@
+<div class="contact-list">
+    {% for contact in site.data.CityContacts-CSV %}
+        <h3>{{ contact.first }} {{ contact.last }}</h3>
+        <p><em>{{ contact.title }}{% if contact.area %}, {{ contact.area }}{% endif %}</em></p>
+        {% if contact.email %}<p><a href="mailto:{{ contact.email }}">{{ contact.email }}</a></p>{% endif %}
+        {% if contact.phone %}<p><a href="tel:{{ contact.phone | replace: '-', '' | replace: '.', '' }}">{{ contact.phone }}</a></p>{% endif %}
+    {% endfor %}
+</div>
