@@ -11,3 +11,26 @@
         margin: 1em 0 0 0;
     }
 }
+
+.posts-list {
+    margin-left: 0;
+    li {
+        list-style: none;
+        .post-title {
+            font-size: 2em;
+        }
+        .post-date {
+            font-size: .9em;
+            color: gray;
+            margin-bottom: 1em;
+        }
+        .more {
+            text-align: center;
+            text-decoration: underline;
+        }
+        &:nth-child(odd) {
+            background-color: #ebf1e2;
+            padding: 20px 10px;
+        }
+    }
+}
