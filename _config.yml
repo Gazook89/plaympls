@@ -31,6 +31,7 @@ facebook_groupID: "594023486107302"
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-email-protect
 
 # Exclude from processing.
 # The following items will not be processed, by default.
