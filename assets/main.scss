@@ -1,7 +1,28 @@
 ---
 ---
 
+
 @import "minima";
+
+// style external links with a postmark.
+
+a[href]:not(:where(
+    /* exclude hash only links */
+    [href^="#"],
+    /* exclude relative but not double slash only links */
+    [href^="/"]:not([href^="//"]),
+    /* domains to exclude */
+    [href*="//plaympls.org"],
+    /* subdomains to exclude */
+    [href*="//www.plaympls.org"],
+    )):after {
+        content: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke-width='1.5' stroke='currentColor' class='w-6 h-6'%3E%3Cpath stroke-linecap='round' stroke-linejoin='round' d='M13.5 6H5.25A2.25 2.25 0 003 8.25v10.5A2.25 2.25 0 005.25 21h10.5A2.25 2.25 0 0018 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25' /%3E%3C/svg%3E%0A");
+        width: 1ch;
+        display: inline-block;
+        margin-left: 5px;
+}
+
+// the contact lists, such as the list of mpls officials.
 
 .contact-list {
     p {
@@ -31,6 +52,41 @@
         &:nth-child(odd) {
             background-color: #ebf1e2;
             padding: 20px 10px;
+        }
+    }
+}
+
+.dates-banner {
+    border-bottom: 1px solid rgb(197, 197, 197);
+    margin-bottom: 20px;
+    overflow-x: auto;
+    ul {
+        display: flex;
+        list-style: none;
+        justify-content: space-between;
+        gap: 10px;
+        margin-left: 0;
+        li {
+            flex: 1 0 200px;
+            padding: 15px 5px;
+            &:nth-child(odd) {
+                background: #ebf1e2;
+            }
+            .event-title {
+                font-weight: bold;
+                margin-bottom: 0;
+                line-height: 1em;
+
+            }
+            .event-date {
+                font-weight: 200;
+                font-size: .9em;
+                letter-spacing: .1ch;
+                color: gray;
+            }
+            .event-description {
+                font-size: .9em;
+            }
         }
     }
 }
