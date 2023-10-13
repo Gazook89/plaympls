@@ -90,3 +90,9 @@ a[href]:not(:where(
         }
     }
 }
+
+// site navigation menu
+// mobile
+.site-nav {
+    z-index: 500;
+}
