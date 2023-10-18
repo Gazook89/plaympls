@@ -5,6 +5,7 @@
 @import "minima";
 
 $alternatingItemBackground : #f6f9f1;
+$highlightColor : #bdc9a7;
 
 // style external links with a postmark.
 
@@ -32,6 +33,19 @@ a[href]:not(:where(
     }
     h3 {
         margin: 1em 0 0 0;
+        &:first-of-type {
+            margin: .1em 0 0 0;
+        }
+    }
+    .org {
+        padding: 10px;
+        margin-bottom: 10px;
+        background-color: $alternatingItemBackground;
+        h2 {
+            font-size: 1.1em;
+            background: $highlightColor;
+            padding: 5px 2px;
+        }
     }
 }
 
