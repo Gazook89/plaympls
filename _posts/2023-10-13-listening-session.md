@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pre Listening Session"
+title:  "Listening Session"
 date:   2023-10-17 19:43:58
 categories: cooper playgrounds mps
 ---
