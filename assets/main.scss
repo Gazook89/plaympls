@@ -4,6 +4,8 @@
 
 @import "minima";
 
+$alternatingItemBackground : #f6f9f1;
+
 // style external links with a postmark.
 
 a[href]:not(:where(
@@ -37,6 +39,7 @@ a[href]:not(:where(
     margin-left: 0;
     li {
         list-style: none;
+        padding: 20px 10px;
         .post-title {
             font-size: 2em;
         }
@@ -50,8 +53,7 @@ a[href]:not(:where(
             text-decoration: underline;
         }
         &:nth-child(odd) {
-            background-color: #ebf1e2;
-            padding: 20px 10px;
+            background-color: $alternatingItemBackground;
         }
     }
 }
@@ -70,7 +72,7 @@ a[href]:not(:where(
             flex: 1 0 200px;
             padding: 15px 5px;
             &:nth-child(odd) {
-                background: #ebf1e2;
+                background: $alternatingItemBackground;
             }
             .event-title {
                 font-weight: bold;
