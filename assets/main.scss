@@ -25,6 +25,16 @@ a[href]:not(:where(
         margin-left: 5px;
 }
 
+hr {
+    color: $highlightColor;
+    width: 50%;
+    margin: 2em auto;
+}
+
+table thead th {
+    background: $highlightColor;
+}
+
 // the contact lists, such as the list of mpls officials.
 
 .contact-list {
@@ -112,3 +122,4 @@ a[href]:not(:where(
 .site-nav {
     z-index: 500;
 }
+
