@@ -8,16 +8,16 @@
         <ul>
             {% for event in site.data.PlayMPLS_Calendar-CSV %}
 
-                {% assign start_date = event["Start Date"] %}
+                {% assign start_date = event["Start Date"] | date: "%A %b %-d" %}
                 {% assign start_time = event["Start Time"] | date: "%l:%M%P" %}
-                {% assign end_date   = event["End Date"] %}
+                {% assign end_date   = event["End Date"] | date: "%A %b %-d" %}
                 {% assign end_time   = event["End Time"] | date: "%l:%M%P" %}
                 
                 {% capture date_time %}
                         {% if start_date %}
                             {% if start_time and end_date and end_time %}
                                 {% if start_date contains end_date %}
-                                    {{ start_date }} {{ start_time }} to {{ end_time }}
+                                    {{ start_date }}, {{ start_time }} to {{ end_time }}
                                     {% else %}
                                         {{ start_date }} {{ start_time }} -<br>{{ end_date }} {{ end_time }}
                                     {% endif %}
