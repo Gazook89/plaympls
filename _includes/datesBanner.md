@@ -35,7 +35,7 @@
                         {% endif %}
                 {% endcapture %}
 
-                <li>
+                <li data-date="{{ event['Start Date'] }} {{ event['Start Time'] }}">
                     <div class="event-title">{% if event.URL %}<a href="{{ event.URL }}">{{ event.Title }}</a>{% else %}{{ event.Title }}{% endif %} </div>
                     <div class="event-date">{{ date_time }}</div>
                     <div class="event-description">
