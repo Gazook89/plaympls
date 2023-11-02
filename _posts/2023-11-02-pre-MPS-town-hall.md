@@ -53,4 +53,5 @@ See you there!
 ## Resources
 
 - [Cooper Playground Inspection Report (pdf)](https://www.plaympls.org/assets/documents/Cooper-Playground-Inspection-Report-2023.pdf)
-- [Trust for Public Land (TPL) park system rating data 2023 (.xlsx)](https://www.plaympls.org/assets/documents/Amenities_Facilities_WEB_DATA_TABLES_City_Park_Facts_2023.xlsx)
+- [Trust for Public Land (TPL) park system rating data 2023 (.xlsx)](https://www.plaympls.org/assets/documents/Amenities_Facilities_WEB_DATA_TABLES_City_Park_Facts_2023.xlsx) (or on [Google Sheets](https://docs.google.com/spreadsheets/d/1BsGcqmmsgYe74o9AdjuJ8YiEbez2R0jj/edit#gid=1849247997))
+- [MPRB presentation on MPRB/MPS partnership costs (2022)(.key)](https://www.plaympls.org/assets/documents/MPS_MPRB-Facilities-Updated-2.key)
