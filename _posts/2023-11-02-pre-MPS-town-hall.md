@@ -6,7 +6,7 @@ categories: cooper playgrounds MPS meeting questions
 author: "John Jones"
 ---
 
-Before tonight's listening session with Minneapolis Public Schools (MPS) leadership it may be beneficial to share some of the questions surrounding the removal of playgrounds, including Cooper, and what the future of MPS properties holds.  And I think it is important for anyone who has comments/questions for MPS to speak up now, whether it is a simple point of clarification or sharing fond memories of the playground(s).
+Before tonight's listening session (6pm @ Howe Elementary) with Minneapolis Public Schools (MPS) leadership it may be beneficial to share some of the questions surrounding the removal of playgrounds, including Cooper, and what the future of MPS properties holds.  And I think it is important for anyone who has comments/questions for MPS to speak up now, whether it is a simple point of clarification or sharing fond memories of the playground(s).
 
 That said, here is a list of questions that have been sent to MPS in advance of the meeting (courtesy of resident Tom Pryor):
 
@@ -47,3 +47,10 @@ That said, here is a list of questions that have been sent to MPS in advance of 
 At tonight's meeting we expect several Minneapolis leaders to be in attendance, either in 'official' capacities or just as concerned residents.  It will be a good opportunity to get express concerns and see what kind of materials there are to build momentum in preserving school playgrounds not just in Cooper but citywide.
 
 See you there!
+
+-----
+
+## Resources
+
+- [Cooper Playground Inspection Report (pdf)](https://www.plaympls.org/assets/documents/Cooper-Playground-Inspection-Report-2023.pdf)
+- [Trust for Public Land (TPL) park system rating data 2023 (.xlsx)](https://www.plaympls.org/assets/documents/Amenities_Facilities_WEB_DATA_TABLES_City_Park_Facts_2023.xlsx)
