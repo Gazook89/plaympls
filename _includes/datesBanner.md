@@ -1,12 +1,12 @@
 
 
-
+{% assign sortedEvents = site.data.PlayMPLS_Calendar-CSV | sort: "Start Date" %}
 
 
 <div class="dates-banner">
     {% if site.data.PlayMPLS_Calendar-CSV.size > 0 %}
         <ul>
-            {% for event in site.data.PlayMPLS_Calendar-CSV %}
+            {% for event in sortedEvents %}
 
                 {% assign start_date = event["Start Date"] | date: "%A %b %-d" %}
                 {% assign start_time = event["Start Time"] | date: "%l:%M%P" %}
