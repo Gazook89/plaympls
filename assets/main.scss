@@ -7,8 +7,16 @@
 $alternatingItemBackground : #f6f9f1;
 $highlightColor : #bdc9a7;
 
+body {
+    position: relative;
+}
+
 header {
     z-index: 500;
+}
+
+main {
+    z-index: 1;
 }
 
 // style external links with a postmark.
@@ -90,6 +98,7 @@ table thead th {
     border-bottom: 1px solid rgb(197, 197, 197);
     margin-bottom: 20px;
     overflow-x: auto;
+    z-index:0;
     ul {
         display: flex;
         list-style: none;
