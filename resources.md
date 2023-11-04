@@ -31,3 +31,7 @@ permalink: /resources/
 - Safety First Checklist: Audit & Inspection Program for Children's Play Areas
     - [Internet Archive, digital rental](https://archive.org/details/safetyfirstcheck0000mcin/page/n3/mode/2up)
     - [Worldcat, physical loan](https://www.worldcat.org/title/Safety-first-checklist-:-the-site-inspection-system-for-play-equipment/oclc/21484327)
+
+## Historical Context
+
+- [Original 1996 schematics for Cooper Playground, courtesy of Jim van Sloun (image)](/assets/images/Cooper_Playground_1996_Schematics.webp)
