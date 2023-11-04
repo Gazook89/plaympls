@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<div class="page">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+
+</div>
+
+<script src="{{ base.url | prepend: site.url }}/assets/js/filterOldDates.js" defer></script>
+<script type="text/javascript" src="/assets/js/lightbox.js"></script>
+<link rel="stylesheet" href="/assets/css/lightbox.css">
