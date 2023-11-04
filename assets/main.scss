@@ -7,6 +7,10 @@
 $alternatingItemBackground : #f6f9f1;
 $highlightColor : #bdc9a7;
 
+header {
+    z-index: 500;
+}
+
 // style external links with a postmark.
 
 a[href]:not(:where(
