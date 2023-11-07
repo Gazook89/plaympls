@@ -9,6 +9,7 @@
                 <p><em>{{ contact.title }}{% if contact.area %}, {{ contact.area }}{% endif %}</em></p>
                 {% if contact.email %}<p><a href="mailto:{{ contact.email | encode_email }}">{{ contact.email }}</a></p>{% endif %}
                 {% if contact.phone %}<p><a href="tel:{{ contact.phone | replace: '-', '' | replace: '.', '' }}">{{ contact.phone }}</a></p>{% endif %}
+                {% if contact.contact_form %}<p><a href="{{ contact.contact_form }}">Contact Form</a></p>{% endif %}
             {% endfor %}
         </div>
     {% endfor %}
