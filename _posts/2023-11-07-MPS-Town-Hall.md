@@ -2,7 +2,7 @@
 layout: post
 title:  "MPS Town Hall"
 date:   2023-11-07 14:58:58
-categories: cooper playgrounds MPS meeting
+tags: cooper playgrounds MPS meeting
 author: "John Jones"
 ---
 

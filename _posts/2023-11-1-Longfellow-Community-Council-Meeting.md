@@ -3,7 +3,7 @@ layout: post
 title:  "LCC Equitable Development Committee Meeting"
 date:   2023-11-01 21:58:58
 author: "John Jones"
-categories: cooper playgrounds lcc meeting
+tags: cooper playgrounds lcc meeting
 ---
 
 Tonight was a regular meeting of the [Longfellow Community Council (LCC) - Equitable Development Committee](https://longfellow.org/committee-agendas-and-minutes/), and the topic of the Cooper Playground was likely the most dominant point of discussion.  There were 3 or 4 supporters of the playground in addition to a few committee members and staff in attendance.

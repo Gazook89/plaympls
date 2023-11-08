@@ -2,7 +2,7 @@
 layout: post
 title:  "Questions for Tonight's MPS Listening Session"
 date:   2023-11-02 14:58:58
-categories: cooper playgrounds MPS meeting questions
+tags: cooper playgrounds MPS meeting questions
 author: "John Jones"
 ---
 
