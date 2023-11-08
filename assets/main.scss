@@ -79,7 +79,34 @@ table thead th {
     }
 }
 
-.posts-list {
+.posts-group h2 {
+    font-size: .9em;
+}
+
+.in-brief {
+    margin-bottom: 3vh;
+    border: 1px solid gray;
+    padding: 1vh 2vw;
+    .short-posts-list {
+        list-style: none;
+        margin-left:0;
+        li:hover {
+            background-color: $alternatingItemBackground;
+        }
+        .post-title {
+            font-size: 1em;
+        }
+        .post-date {
+            color: gray;
+        }
+        li p {
+            display: inline;
+        }
+    }
+}
+
+
+.long-posts-list {
     margin-left: 0;
     li {
         list-style: none;
