@@ -27,6 +27,17 @@ url: "https://www.plaympls.org" # the base hostname & protocol for your site, e.
 facebook_group: "Save Minneapolis Playgrounds!"
 facebook_groupID: "594023486107302"
 
+# for all pages
+permalink: pretty
+
+# for posts
+defaults:
+  - scope:
+     path: ""
+     type: "posts"
+    values:
+     permalink: /news/:year/:month/:day/:title/
+
 # Build settings
 theme: minima
 plugins:
