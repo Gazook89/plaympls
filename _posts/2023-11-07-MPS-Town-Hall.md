@@ -4,6 +4,7 @@ title:  "MPS Town Hall"
 date:   2023-11-07 14:58:58
 tags: cooper playgrounds MPS meeting
 author: "John Jones"
+form: long
 ---
 
 Last Thursday, Nov 2nd, Minneapolis Public Schools hosted the much-anticipated Listening Session about the Cooper Playground.  The meeting took place in the gym of Howe Elementary, and was run by MPS's Interim Superintendent Rochelle Cox and School Board Commissioner for our area Lori Norvelle.  Assistant Superintedent Ryan Strack from MPS was also in attendance, as well as Becky Alper (MPRB), Andrew Johnson (City Council), and Samantha Sencer-Mura (State House).  

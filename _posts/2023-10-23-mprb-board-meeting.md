@@ -4,6 +4,7 @@ title:  "Minneapolis Parks & Rec Board Meeting"
 date:   2023-10-23 19:58:58
 author: "John Jones"
 tags: cooper playgrounds mprb meeting
+form: long
 ---
 
 A few nights ago I attended a regular Minneapolis Parks & Rec Board meeting at the Mary Merrill MPRB headquarters and a few others watched via the MPRB's live stream on Youtube.  It was the first full board meeting of the MPRB since the news of the Cooper playground demolition was shared, and was seemingly the first time at least some of the board members had heard of the removal.

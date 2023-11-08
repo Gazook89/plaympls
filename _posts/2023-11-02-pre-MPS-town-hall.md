@@ -4,6 +4,7 @@ title:  "Questions for Tonight's MPS Listening Session"
 date:   2023-11-02 14:58:58
 tags: cooper playgrounds MPS meeting questions
 author: "John Jones"
+form: long
 ---
 
 Before tonight's listening session (6pm @ Howe Elementary) with Minneapolis Public Schools (MPS) leadership it may be beneficial to share some of the questions surrounding the removal of playgrounds, including Cooper, and what the future of MPS properties holds.  And I think it is important for anyone who has comments/questions for MPS to speak up now, whether it is a simple point of clarification or sharing fond memories of the playground(s).

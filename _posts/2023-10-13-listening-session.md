@@ -3,6 +3,7 @@ layout: post
 title:  "Listening Session"
 date:   2023-10-17 19:43:58
 tags: cooper playgrounds mps
+form: long
 ---
 
 The Minneapolis Public Schools board just set a date for a community forum at Howe Elementary, Nov. 2nd at 6pm:

@@ -3,6 +3,7 @@ layout: post
 title:  "An opportunity for Cooper"
 date:   2023-10-11 14:58:58
 tags: cooper playgrounds
+form: long
 ---
 
 A week ago some parents in the Cooper neighborhood got wind that Minneapolis Public Schools (MPS) had a quick plan to remove the playground structures behind the long-disused Cooper Elementary school on 33rd Street and 45th Ave.  The timeline given was "in the coming weeks", accelerated due to safety concerns about the old equipment.
