@@ -50,6 +50,8 @@ table thead th {
 // the contact lists, such as the list of mpls officials.
 
 .contact-list {
+    float: none;
+    
     p {
         margin: 0;
     }
@@ -68,6 +70,12 @@ table thead th {
             background: $highlightColor;
             padding: 5px 2px;
         }
+    }
+}
+
+@media screen and (min-width: 800px) {
+    .contact-list {
+        float: right;
     }
 }
 
