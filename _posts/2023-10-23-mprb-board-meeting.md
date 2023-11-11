@@ -37,9 +37,11 @@ In summary of the dissent, it seems that, at least in the words presented at the
 
 | Yea                           | Nay                                      |
 |-------------------------------|------------------------------------------|
-| Alper, Thompson, Crudup, Menz | Abene, Thompson, Shaffer, Forney, Musich |
+| Alper, Olsen, Crudup, Menz    | Abene, Thompson, Shaffer, Forney, Musich |
 
 Ultimately it seems that any action from the MPRB on coming to the aid of MPS playgrounds is going to require significant more prodding.  It is clear that no member of the MPRB relishes the idea of playgrounds being torn down, MPRB property or not, but it's also worth keeping in mind that they operate independently of the school district.  MPRB is right to consider carefully any engagement with MPS.  However, it is in the interest of the city as a whole that they *do* consider preserving playground access for Minneapolis youth.
+
+*\*record of votes corrected from original posting-- Olsen voted in favor, not Thompson*
 
 
 -----
@@ -48,4 +50,4 @@ An additional note:  one of the dissenters, Commissioner Musich, will be represe
 
 -----
 
-Minneapolis Parks & Recreation Board meetings are typically the first and third Wednesdays of the month, at 5pm.  The meetings start with about 30 minutes of discussion amongst the board, and a public comment period opens at 5:30 and runs for 15 minutes max (each speaker being granted 3 minutes).  If you wish to submit a comment or speak in person, take a look at the [MPRB website for more information](https://www.minneapolisparks.org/about-us/leadership-and-structure/board-meetings/).
+Minneapolis Parks & Recreation Board meetings are typically the first and third Wednesdays of the month, at 5pm.  The meetings start with about 30 minutes of discussion amongst the board, and a public comment period opens at 5:30 and runs for 15 minutes max (each speaker typically being granted 2 minutes).  If you wish to submit a comment or speak in person, take a look at the [MPRB website for more information](https://www.minneapolisparks.org/about-us/leadership-and-structure/board-meetings/).
