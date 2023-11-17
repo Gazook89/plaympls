@@ -5,6 +5,7 @@ date:   2023-11-16 22:58:58
 tags: cooper playgrounds organizing meeting event
 author: "John Jones"
 form: long
+excerpt: "The neighborhood is invited to attend an organizing meeting on November 28th to discuss the first steps in preserving the Cooper property as a community gathering place for all.  The event will be held at the [Bethlehem Covenant Church](bethlehemcov.org) (3141 43rd Ave S), starting at 7pm and running to 8:30pm.  A childcare option is available onsite."
 ---
 
 <style>
