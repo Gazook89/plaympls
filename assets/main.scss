@@ -4,8 +4,9 @@
 
 @import "minima";
 
-$alternatingItemBackground : #f6f9f1;
-$highlightColor : #bdc9a7;
+$alternatingItemBackground  : #f6f9f1;
+$highlightColor             : #bdc9a7;
+$darkColor                  : #8d9a75;
 
 body {
     position: relative;
@@ -35,6 +36,17 @@ a[href]:not(:where(
         width: 1ch;
         display: inline-block;
         margin-left: 5px;
+}
+
+a.cta {
+    display:block;
+    max-width: max-content;
+    background: $darkColor;
+    padding: .7em 1em;
+    margin: .5em auto;
+    color: white;
+    border-radius: 50px;
+    filter: drop-shadow(0 2px 3px #c1c1c1);
 }
 
 hr {
