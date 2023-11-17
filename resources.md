@@ -4,6 +4,8 @@ title: Resources
 permalink: /resources/
 ---
 
+
+
 ## Cooper Playground
 
 - [Cooper Playground Inspection Report (pdf)](/assets/documents/Cooper-Playground-Inspection-Report-2023.pdf)
@@ -18,6 +20,11 @@ permalink: /resources/
 - [MPS Policy 3270A, about Surplus Property](https://mps.municipalcodeonline.com/book?type=policies#name=Regulation_3270A:_Disposition_Of_Surplus_Property)
 - [MPS Policy 7530, about Joint Facilities Projects with MPRB](https://mps.municipalcodeonline.com/book?type=policies#name=Relations_With_Other_Governmental_Bodies_(7500-7599))
 - [MPS Policy 7000, about Gardens on School Property](https://mps.municipalcodeonline.com/book?type=policies#name=Policy_7000:_Gardens_On_School_Property)
+- [Map of MPS Properties (Nov 2023)](https://www.easymapmaker.com/map/852360c1dfd51baae702baa3a6653ce3)
+
+ <!-- <iframe width="100%" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
+        src="https://www.easymapmaker.com/map/852360c1dfd51baae702baa3a6653ce3">
+    </iframe> -->
 
 ## Minneapolis Parks & Rec (MPRB)
 
