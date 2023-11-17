@@ -10,6 +10,11 @@ layout: home
 -----
 <div style='text-align:center'>
 
+<strong>Looking to RSVP to the next community meeting?  Follow this link!</strong><br>
+
+<a href='https://forms.gle/8gTiYd5SKM1xhhom8' target="_blank" rel="noopener noreferrer">Cooper Playground Organizing Meeting RSVP (Google Forms)</a><br>
+<hr>
+
 If you would like to be added to a future newsletter emailing list, please reach out to <strong>info@plaympls.org</strong>.  <br>
 
 Thank you everyone for your interest and support!
