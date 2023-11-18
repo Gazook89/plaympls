@@ -46,7 +46,16 @@ a.cta {
     margin: .5em auto;
     color: white;
     border-radius: 50px;
-    filter: drop-shadow(0 2px 3px #c1c1c1);
+    filter: drop-shadow(0 2px 3px #c1c1c1) brightness(100%);
+    transition: filter .2s ease;
+    &:hover {
+        filter: drop-shadow(0 6px 3px #c1c1c1) brightness(120%);
+        transition: filter .2s ease;
+    }
+    &:active {
+        filter: drop-shadow(0 2px 3px #c1c1c1) brightness(90%);
+        transition: filter .1s linear;
+    }
 }
 
 hr {
