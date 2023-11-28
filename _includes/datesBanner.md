@@ -36,8 +36,10 @@
                 {% endcapture %}
 
                 <li data-start="{{ event['Start Date'] }} {{ event['Start Time'] }}" data-end="{{ event['End Date'] }} {{ event['End Time'] }}">
-                    <div class="event-title">{% if event.URL %}<a href="{{ event.URL }}">{{ event.Title }}</a>{% else %}{{ event.Title }}{% endif %} </div>
-                    <div class="event-date">{{ date_time }}</div>
+                    <div class="event-data">
+                        <div class="event-title">{% if event.URL %}<a href="{{ event.URL }}">{{ event.Title }}</a>{% else %}{{ event.Title }}{% endif %} </div>
+                        <div class="event-date">{{ date_time }}</div>
+                    </div>
                     <div class="event-description">
                         {{ event.Description | markdownify }}
 
