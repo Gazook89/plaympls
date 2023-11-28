@@ -10,9 +10,15 @@ layout: home
 -----
 <div style='text-align:center'>
 
-<strong>Looking to RSVP to the next community meeting?  Follow this link!</strong><br>
+The <strong>Zoom</strong> link for the Nov 28th meeting is here:
+
+<a class='cta' href='https://us02web.zoom.us/j/86708032165?pwd=WXdsbDdNclBjeit2NU5QRXB2Q2hLUT09' target="_blank" rel="noopener noreferrer">Nov 28th Zoom Link</a>
+
+Looking to <strong>RSVP</strong> to the next community meeting?  Follow this link!<br>
 
 <a class='cta' href='https://forms.gle/8gTiYd5SKM1xhhom8' target="_blank" rel="noopener noreferrer">Cooper Playground Organizing Meeting RSVP (Google Forms)</a>
+
+
 <hr>
 
 If you would like to be added to a future newsletter emailing list,<br>
