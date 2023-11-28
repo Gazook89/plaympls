@@ -9,14 +9,16 @@ layout: home
 
 -----
 <div style='text-align:center'>
+<h2>Nov 28th Meeting</h2>
+Join us at Bethlehem Covenant Church at 7pm for our first community meeting to develop an organizational structure and connect with neighbors.  If you cannot make it in person, use the <strong>Zoom link</strong> below to join virtually.  Please use the <strong>Nov 28th Survey</strong> link to tell us how you would like to participate, and leave any other comments/questions you may have.  
 
-The <strong>Zoom</strong> link for the Nov 28th meeting is here:
+See you there!
 
 <a class='cta' href='https://us02web.zoom.us/j/86708032165?pwd=WXdsbDdNclBjeit2NU5QRXB2Q2hLUT09' target="_blank" rel="noopener noreferrer">Nov 28th Zoom Link</a>
 
-Looking to <strong>RSVP</strong> to the next community meeting?  Follow this link!<br>
+<a class='cta' href='https://docs.google.com/forms/d/e/1FAIpQLScLmhXNIg_hJZWXdXx5XVr6FZKLseZBmREgw5_3mbMRJCx0Dg/viewform' target="_blank" rel="noopener noreferrer">Nov 28th Survey</a>
 
-<a class='cta' href='https://forms.gle/8gTiYd5SKM1xhhom8' target="_blank" rel="noopener noreferrer">Cooper Playground Organizing Meeting RSVP (Google Forms)</a>
+<a class='cta' href='https://forms.gle/8gTiYd5SKM1xhhom8' target="_blank" rel="noopener noreferrer">Meeting RSVP (Google Forms)</a>
 
 
 <hr>
