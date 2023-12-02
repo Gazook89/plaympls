@@ -8,18 +8,11 @@ layout: home
 <!-- markdownlint-disable first-line-h1 -->
 
 -----
+
 <div style='text-align:center'>
-<h2>Nov 28th Meeting</h2>
-Join us at Bethlehem Covenant Church at 7pm for our first community meeting to develop an organizational structure and connect with neighbors.  If you cannot make it in person, use the <strong>Zoom link</strong> below to join virtually.  Please use the <strong>Nov 28th Survey</strong> link to tell us how you would like to participate, and leave any other comments/questions you may have.  
+Wondering how you can get involved in the effort to preserve local access to your playground?  Fill out the below form and someone will reach out to you with more info!  Thanks!
 
-See you there!
-
-<a class='cta' href='https://us02web.zoom.us/j/86708032165?pwd=WXdsbDdNclBjeit2NU5QRXB2Q2hLUT09' target="_blank" rel="noopener noreferrer">Nov 28th Zoom Link</a>
-
-<a class='cta' href='https://docs.google.com/forms/d/e/1FAIpQLScLmhXNIg_hJZWXdXx5XVr6FZKLseZBmREgw5_3mbMRJCx0Dg/viewform' target="_blank" rel="noopener noreferrer">Nov 28th Survey</a>
-
-<a class='cta' href='https://forms.gle/8gTiYd5SKM1xhhom8' target="_blank" rel="noopener noreferrer">Meeting RSVP (Google Forms)</a>
-
+<a class='cta' href='https://docs.google.com/forms/d/e/1FAIpQLScLmhXNIg_hJZWXdXx5XVr6FZKLseZBmREgw5_3mbMRJCx0Dg/viewform' target="_blank" rel="noopener noreferrer">Engagement Survey</a>
 
 <hr>
 
