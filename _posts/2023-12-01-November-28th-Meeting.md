@@ -2,7 +2,7 @@
 layout: post
 title:  "November 28th Meeting (Minutes)"
 date:   2023-12-01 14:58:58
-tags: cooper playgrounds community meeting organizing
+tags: cooper playgrounds community meeting organizing minutes
 author: "John Jones"
 form: long
 excerpt: "On Tuesday November 28th the community had its first organizing meeting around Cooper Playground, graciously hosted by staff from Longfellow Community Council and moderated by Sarah Robinson, at the Bethlehem Covenant Church.  Thanks to all those that helped pull it together and to everyone that was able to make it out (or via Zoom)."
@@ -13,6 +13,8 @@ excerpt: "On Tuesday November 28th the community had its first organizing meetin
 On Tuesday November 28th the community had its first organizing meeting around Cooper Playground, graciously hosted by staff from Longfellow Community Council and moderated by Sarah Robinson, at the Bethlehem Covenant Church.  Thanks to all those that helped pull it together and to everyone that was able to make it out (or via Zoom).  *The next community-wide meeting is set for Jan 16th 2024.*
 
 **[The minutes can be found here (pdf)](/assets/documents/meeting_minutes/2023-11-28_Minutes.pdf).**
+
+***Additionally, MPS sent us their meeting minutes from the Nov 2nd MPS Town Hall at Howe, and [those are available to review here (pdf)](/assets/documents/meeting_minutes/2023-11-02-minutes.pdf),** though they were not available for our most recent meeting.*
 
 ## Summary
 
