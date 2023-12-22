@@ -24,12 +24,12 @@ Ultimately the meeting produced a collection of working groups or committees tha
 
 ## Working Groups
 
-- Lobbying group: MPS, MRPB, city council, and State
-- Short term lease partner: identify a leaser and liability insurance holder
+- Lobbying: Working with MPS, MRPB, city council, and State
+- Leasing & Acquisition: identify a short term leaser and liability insurance holder
 - Structure & Equipment: estimating repairs and contacting playground construction companies
-- Info distribution: template for emails, flyering, newsletters, etc.
-- Fundraising: grant writing, researching old NRP grant, etc.
-- Governing committee
+- Communications: external relations with media and community.  Social media, press relations, flyering, newsletters, and internal templates, etc
+- Fundraising: grant writing, researching old NRP grant, events, etc
+- Governing committee: organizing, coordinating interaction between groups
 
 ### How to participate
 If you would like to get more info on any working group, please reach out to info@plaympls.org or ask in the [Save Cooper Playground! facebook group](https://www.facebook.com/groups/594023486107302).  
