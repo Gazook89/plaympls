@@ -1,0 +1,38 @@
+	{
+	"version": "2.0.0",
+	"tasks": [
+		{
+		"label": "Start Jekyll - Local Preview",
+		"type": "shell",
+		"command": "bundle",
+		"args": [
+			"exec",
+			"jekyll",
+			"serve"
+		],
+		"group": {
+			"kind": "build",
+			"isDefault": true
+		},
+		"options": {
+			"cwd": "${workspaceFolder}"
+		},
+		"presentation": {
+			"reveal": "always",
+			"panel": "new"
+		},
+		"problemMatcher": {
+			"owner": "jekyll",
+			"fileLocation": ["relative", "${workspaceFolder}"],
+			"pattern": {
+				"regexp": "^(.*):(\\d+):(\\d+):\\s+(error|warning)",
+				"file": 1,
+				"line": 2,
+				"column": 3,
+				"severity": 4,
+				"message": 5
+				}
+			}
+		}
+	]
+}
