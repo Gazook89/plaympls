@@ -7,7 +7,14 @@ layout: home
 
 <!-- markdownlint-disable first-line-h1 -->
 
+**There is *not* a community meeting tonight, Tuesday Jan 16th, as originally planned, due to weather and just what kind of progress warrants pulling everyone together.  Look for an update as a new post here tonight or tomorrow.  Sorry for the inconvenience!**
+
+-- John
+
 <div style='text-align:center'>
+
+
+
 Wondering how you can get involved in the effort to preserve local access to your playground?  Fill out the below form and someone will reach out to you with more info!  Thanks!
 
 <a class='cta' href='https://docs.google.com/forms/d/e/1FAIpQLScLmhXNIg_hJZWXdXx5XVr6FZKLseZBmREgw5_3mbMRJCx0Dg/viewform' target="_blank" rel="noopener noreferrer">Engagement Survey</a>
