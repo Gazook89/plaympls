@@ -5,4 +5,4 @@ _site
 vendor
 qr_codes
 DS_Store
-draft_documents/
+.draft_documents/
