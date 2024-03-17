@@ -7,6 +7,7 @@
 $alternatingItemBackground  : #f6f9f1;
 $highlightColor             : #bdc9a7;
 $darkColor                  : #8d9a75;
+$lesserColor                 : #7c7f78;
 
 body {
     position: relative;
@@ -38,25 +39,32 @@ a[href]:not(:where(
         margin-left: 5px;
 }
 
-a.cta {
-    display:block;
-    max-width: max-content;
-    background: $darkColor;
-    padding: .7em 1em;
-    margin: .5em auto;
-    color: white;
-    border-radius: 50px;
-    filter: drop-shadow(0 2px 3px #c1c1c1) brightness(100%);
-    transition: filter .2s ease;
-    &:hover {
-        filter: drop-shadow(0 6px 3px #c1c1c1) brightness(120%);
+a {
+    &.cta {
+        display:block;
+        max-width: max-content;
+        background: $darkColor;
+        padding: .7em 1em;
+        margin: .5em auto;
+        color: white;
+        border-radius: 50px;
+        filter: drop-shadow(0 2px 3px #c1c1c1) brightness(100%);
         transition: filter .2s ease;
-    }
-    &:active {
-        filter: drop-shadow(0 2px 3px #c1c1c1) brightness(90%);
-        transition: filter .1s linear;
+        &:hover {
+            filter: drop-shadow(0 6px 3px #c1c1c1) brightness(120%);
+            transition: filter .2s ease;
+        }
+        &:active {
+            filter: drop-shadow(0 2px 3px #c1c1c1) brightness(90%);
+            transition: filter .1s linear;
+        }
+        &.lesser {
+            background: $lesserColor;
+            display: inline-block;
+        }
     }
 }
+
 
 hr {
     color: $highlightColor;
