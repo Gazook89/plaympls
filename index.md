@@ -13,6 +13,7 @@ layout: home
 Please fill out this Google Forms survey to show support for preserving play spaces at Cooper Elementary-- A collection of responses will be used to <strong>support a critical grant opportunity</strong> from Hennepin County that aims to help communities build playgrounds and other active spaces. 
 <br>
 <em>Please share with others, and Thank you!</em>
+<br>
 
 <a class='cta' href='https://forms.gle/zJsuic8Ug1rL5HZHA' target="_blank" rel="noopener noreferrer">Show Support!</a>
 

@@ -4,5 +4,5 @@ _site
 .jekyll-metadata
 vendor
 qr_codes
-DS_Store
+.DS_Store
 .draft_documents/
