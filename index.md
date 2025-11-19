@@ -9,24 +9,20 @@ layout: home
 
 <div style='text-align:center'>
 
-<h2>Urgent Feedback Needed!</h2>
-Please fill out this Google Forms survey to show support for preserving play spaces at Cooper Elementary-- A collection of responses will be used to <strong>support a critical grant opportunity</strong> from Hennepin County that aims to help communities build playgrounds and other active spaces. 
-<br>
-<em>Please share with others, and Thank you!</em>
-<br>
+<h2>Construction Update</h2>
+<p>In case you haven't yet heard the news.... WE'RE GETTING A PLAYGROUND!</p>
 
-<a class='cta' href='https://forms.gle/zJsuic8Ug1rL5HZHA' target="_blank" rel="noopener noreferrer">Show Support!</a>
+<p><strong>Thank you to all who have put countless hours into grant writing, survey sharing, writing letters, going to meetings and more, to get us to this place.</strong></p>
 
+<p>This week: Demo will begin on the current playground. The playground will be roped off during this time. All equipment except for the green structure at the south end (plus the balance beams, and the benches on the outside perimeter) will go. The sand will be removed and new mulch will be added.</p>
 
+<p>There will be a break over Thanksgiving.</p>
 
-<hr>
+<p>The week after Thanksgiving, the new playground will go in! I have been told that we will have a new playground by December 10th.</p>
 
-Wondering how you can get involved in the effort to preserve local access to your playground, or just interested in receiving updates as we get them?  Fill out either form below and we'll reach out.
-<br>
-
-<a class='cta lesser' href='https://docs.google.com/forms/d/e/1FAIpQLScLmhXNIg_hJZWXdXx5XVr6FZKLseZBmREgw5_3mbMRJCx0Dg/viewform' target="_blank" rel="noopener noreferrer">Get Engaged</a> <a class='cta lesser' href='https://forms.gle/33KzCGPRNo5in65L7' target="_blank" rel="noopener noreferrer">Newsletter Updates</a>
-
+<p>We are working up a playground opening celebration. Stay tuned for a date and details! Thank you again!</p>
 </div>
+
 -----
 
 PlayMPLS is a small grassroots group of parents thinking about the future of the Cooper Elementary playground and surrounding fields, as well as the future of all Minneapolis Public Schools outdoor play areas.  Preservation through rehabilitation, or well-considered replacement if needed, can help keep the Cooper playground community gathering place for kids, teens, and parents for years to come.
